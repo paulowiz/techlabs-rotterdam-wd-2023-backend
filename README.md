@@ -15,7 +15,7 @@
    Techlabs Rotterdam Backend Track 
   </h3> 
   <p align="center">
-    <img alt="Disaster" src="[https://github.com/paulowiz/assets/blob/main/disaster_project.gif](https://th.bing.com/th/id/OIP.uYr0YCajZTZWNt0ifhaAbQHaB2?pid=ImgDet&rs=1)">
+    <img alt="Disaster" src="https://th.bing.com/th/id/OIP.uYr0YCajZTZWNt0ifhaAbQHaB2?pid=ImgDet&rs=1">
     <br />
     <br />
     <a href="https://github.com/paulowiz/disaster_response_pipeline/issues">Report Bug</a>
