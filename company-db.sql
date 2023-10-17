@@ -1,4 +1,4 @@
-DROP TABLE Departments; 
+DROP TABLE IF EXISTS Departments; 
 -- Create the Departments table
 CREATE TABLE Departments (
     department_id INT PRIMARY KEY,
@@ -15,7 +15,7 @@ VALUES
     (4, 'Engineering', 'San Francisco');
    
    
-DROP TABLE Employees;
+DROP TABLE IF EXISTS Employees;
 
 -- Create the Employees table
 CREATE TABLE Employees (
